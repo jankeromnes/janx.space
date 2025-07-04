@@ -1,0 +1,18 @@
+- 3, 2, 1...
+- and liftoff
+- vehicle is pitching downrange
+- booster, ship: pressure is nominal
+- booster, ship: avionics power and telemetry nominal
+- vehicle is supersonic
+- max q
+- booster engine cutoff
+- meco
+- ship engine startup
+- stage separation
+- boostback burn startup
+- ship: raptor chamber pressure is nominal
+- we are go for booster returning
+- ship: avionics power and telemtry nominal
+- boostback burn shutdown
+- starship trajectory nominal
+- booster FTS is safed
